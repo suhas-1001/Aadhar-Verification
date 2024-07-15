@@ -53,4 +53,3 @@ This application integrates Wallet Connect for user authentication and uses the 
 ## Project Demo Video
 https://www.youtube.com/watch?v=MGdLroZrRyM
 
-(https://www.youtube.com/watch?v=MGdLroZrRyM)
